@@ -1,0 +1,26 @@
+{
+  "best_model_name": "Random Forest",
+  "best_params": {
+    "clf__n_estimators": 200,
+    "clf__min_samples_split": 2,
+    "clf__min_samples_leaf": 1,
+    "clf__max_depth": null
+  },
+  "feature_columns": [
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]",
+    "Temperature difference [K]",
+    "Power [W]",
+    "Type"
+  ],
+  "test_metrics": {
+    "accuracy": 0.991,
+    "precision": 0.9166666666666666,
+    "recall": 0.8088235294117647,
+    "f1": 0.859375,
+    "roc_auc": 0.9649631591767142
+  }
+}

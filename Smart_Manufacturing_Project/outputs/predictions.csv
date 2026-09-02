@@ -1,0 +1,26 @@
+Machine_ID,Failure Probability,Risk Level,Health Score,Maintenance Recommendation
+M001,0.0,Low,100.0,Continue monitoring
+M002,1.0,Low,99.0,Continue monitoring
+M003,0.0,Low,100.0,Continue monitoring
+M004,9.0,Low,91.0,Continue monitoring
+M005,0.0,Low,100.0,Continue monitoring
+M006,0.0,Low,100.0,Continue monitoring
+M007,0.0,Low,100.0,Continue monitoring
+M008,0.0,Low,100.0,Continue monitoring
+M009,85.0,Critical,15.0,Prioritize maintenance
+M010,0.0,Low,100.0,Continue monitoring
+M011,0.0,Low,100.0,Continue monitoring
+M012,0.0,Low,100.0,Continue monitoring
+M013,0.0,Low,100.0,Continue monitoring
+M014,0.0,Low,100.0,Continue monitoring
+M015,0.5,Low,99.5,Continue monitoring
+M016,0.0,Low,100.0,Continue monitoring
+M017,4.5,Low,95.5,Continue monitoring
+M018,0.0,Low,100.0,Continue monitoring
+M019,0.5,Low,99.5,Continue monitoring
+M020,19.5,Low,80.5,Continue monitoring
+M021,81.5,Critical,18.5,Prioritize maintenance
+M022,0.0,Low,100.0,Continue monitoring
+M023,0.0,Low,100.0,Continue monitoring
+M024,3.0,Low,97.0,Continue monitoring
+M025,6.5,Low,93.5,Continue monitoring
